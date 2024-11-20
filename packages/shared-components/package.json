@@ -1,5 +1,5 @@
 {
-  "name": "@lerna/shared-components",
+  "name": "@lerna-demo/shared-components",
   "version": "1.1.2",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "6c36520f9c23556fd2540b0300db798bdbbc28e8"
+  "gitHead": "7b5fc7f85e1f97ee38f16b26075fe899b8ca5db0"
 }
