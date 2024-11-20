@@ -1,5 +1,5 @@
 {
-  "name": "shared-components",
+  "name": "@rinyasnl/shared-components",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "92ea92edb1c0232bf6bfbb548cc780d8e02a7efd"
 }
