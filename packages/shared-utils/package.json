@@ -1,5 +1,5 @@
 {
-  "name": "@lerna-demo/shared-utils",
+  "name": "@myorg/shared-utils",
   "version": "1.2.3",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "7b5fc7f85e1f97ee38f16b26075fe899b8ca5db0"
+  "gitHead": "0fa40f20a4ac31f7b327bb025b56fa011f4c2128"
 }
