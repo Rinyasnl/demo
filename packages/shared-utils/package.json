@@ -1,5 +1,5 @@
 {
-  "name": "@rinyasnl/shared-utils",
+  "name": "@lerna/shared-utils",
   "version": "1.2.1",
   "description": "",
   "main": "index.js",
